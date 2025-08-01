@@ -1,0 +1,142 @@
+
+h1{
+    color:black;
+    font-style:unset;
+    font-family: Archivo, sans-serif;
+    letter-spacing:-2px;
+    font-weight:bolder;
+    font-size:35px;
+    font-stretch:extra-condensed;
+}
+
+.leftc{
+    text-align: left;
+    /* padding-right: ; */
+   padding-top: 400px;
+
+}
+div>h3{
+    font-style:unset;
+    font-weight: bolder;
+    font-stretch:extra-condensed;
+    font-family: Archivo, sans-serif;
+    letter-spacing:0ch;
+}
+/* .middle{
+    height: 500px;
+    width: 300px;
+    margin:250,250;
+    box-shadow: 2px,2px,5px,black;
+    border: 2px;
+}
+.middle>h1{
+    font-style:unset;
+    font-weight: bolder;
+    font-stretch:extra-condensed;
+    font-family: Archivo, sans-serif;
+    letter-spacing:0ch;
+
+} */
+/* .middle{
+    height: 500px;
+    width: 300px;
+    margin:250,250;
+    box-shadow: 2px,2px,5px,black;
+    border: 2px;
+} */
+#center{
+    height: 500px;
+    width: 300px;
+    margin:2500,2500,300,1000;
+    box-shadow: 2px,2px,5px,black;
+    border: 2px;
+    text-align: center;
+
+
+}
+/* .middle{
+    
+    height: 500px;
+    width: 300px;
+    margin:0px 500px 3px 100px;
+    box-shadow: 2px,2px,5px,black;
+    border: 2px;
+    text-align: center;
+
+} */
+ .main>.book>h1{
+    color: black;
+    margin:10px 190px 300px 0px;
+    text-align: center;
+    
+    border: 2px;
+    box-shadow: 2px,2px,5px,black;
+ }
+ .book{
+    padding:1px 2px 9px 40px;
+     
+    box-shadow: 2px,2px,5px,;
+     height : 600px;
+     width: 450px; 
+     text-align: center;
+     margin: 50px  400px -400px;
+     box-shadow: 2px 2px 17px rgb(72, 69, 69);
+      border-left: 4px rgb(124, 93, 63);
+ }
+ .top{
+    text-align: right;
+    
+    margin-top: -70px;
+ }
+ .bottom{
+    text-align: right;
+    margin-bottom:-600px;
+    margin-top: -180px;
+    font-weight:300;
+    line-height:14px;
+ }
+ .selling{
+    text-align: center;
+    font-weight:bolder;
+    font-size:15px;
+    font-style:unset;
+    font-family: Archivo, sans-serif;
+    margin-top: 410px;
+    margin-right: 160px;
+ }
+ 
+ .selling>h3{
+    font-weight: bolder;
+    color:white;
+ }
+ p{
+    display:inline;
+    font-weight: bolder;
+    color: white;
+ }
+ .line{
+    height : 607px;
+    border: 1.1px solid #05cfc2; ;
+    width :0px;
+    margin: -772px   418px  00px;
+ }
+ .book>h5{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ letter-spacing: -1.7px;
+ font-stretch:extra-condensed;
+ text-align: left;
+ font-weight:lighter;
+    font: size 13px;px;
+
+   margin-top: -290px;
+ }
+ .book>h2{
+   font-size:75px;
+   margin-top: -50px;
+   font-style:unset;
+   font-weight:1500;
+   font-stretch:condensed;
+   color: white;
+    font-family: Archivo, sans-serif;
+ }
+ 
